@@ -5,3 +5,11 @@ Git makes storing and sharing a codebase simple.
 Its version control scheme also helps to manage collaborative codebases; 
 Git lets us know who coded what, resolve conflicts in the codebase with merges or rolling back to an earlier version, 
 and experiment through forks.   
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to sports scouting. I'll use soccer as an example.  
+Instead of only looking at goals and assists, we can measure things like chances created, 
+touches in the final third, number of line breaking passes, etc. 
+Then using data science, we can analyze this data to assess the player's strengths, weaknesses, 
+and overall profile. A team can use that analysis to decide which players they should recruit. 
