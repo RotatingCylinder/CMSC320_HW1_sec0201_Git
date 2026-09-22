@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git?
+
+Answer: There are multiple reasons to consider using Git
+Git makes storing and sharing a codebase simple. 
+Its version control scheme also helps to manage collaborative codebases; 
+Git lets us know who coded what, resolve conflicts in the codebase with merges or rolling back to an earlier version, 
+and experiment through forks.   
